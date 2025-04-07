@@ -9,9 +9,21 @@
     "extensions": [
         {
             "extension": "890",
-            "name": "Windows",
+            "name": "windows",
             "type": "phone",
             "identifier": "75RN773M"
+        },
+        {
+            "extension": "891",
+            "name": "mac",
+            "type": "phone",
+            "identifier": "4SB40L1M"
+        },
+        {
+            "extension": "892",
+            "name": "dial",
+            "type": "dialphone",
+            "identifier": "T2O1ORIZ"
         }
     ],
     "providers": [
