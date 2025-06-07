@@ -4,7 +4,11 @@
     "aboutMe": {
         "identifier": "91c5f34f-c178-4cfe-a488-be6ed00fac3b",
         "preferredPrefix": "890",
-        "name": "hieri"
+        "name": "hieri",
+        "sipUri": [
+            "sip:shiroha.tailcef304.ts.net:5060;transport=udp",
+            "sip:shiroha.tailcef304.ts.net:5060;transport=tcp"
+        ]
     },
     "extensions": [
         {
